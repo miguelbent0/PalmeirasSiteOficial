@@ -1,0 +1,16 @@
+.bg-verde {
+    background-color: #006437 !important;
+  }
+  .img-box {
+    padding: 15px;
+    border-radius: 10px;
+    text-align: center;
+  }
+  .img-box img {
+    max-width: 100%;
+    border-radius: 10px;
+  }
+  .img-box p {
+    color: black;
+    margin-top: 10px;
+  }
